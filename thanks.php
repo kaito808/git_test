@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>ありがとうございました</title>
+        <title>東ありがとうございました</title>
     </head>
     <body>
     <?php
