@@ -1,4 +1,5 @@
 <?php
+// 和田が触りました！！
 
 $link = mysqli_connect('db', 'root', 'root', 'boards_lesson');
 
