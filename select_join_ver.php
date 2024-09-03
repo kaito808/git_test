@@ -96,7 +96,7 @@
         <table style="margin-bottom:20px; border:1px solid #ccc; padding:10 20px;">  
             <tr>
                 <td>
-                    名前
+                    名前-変更しました
                 </td>
                 <td><?php echo $board["b_name"]; ?> さん</td>
             </tr>
