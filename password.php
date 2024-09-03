@@ -8,7 +8,7 @@
         <hr />
         <a href="./top.php">TOP</a> | <a href="./search.php">ワード検索</a>
         <hr />
-        <h2>パスワード確認</h2>
+        <h2>パスワード確認,岡本編集しました。</h2>
         <form action="./edit_or_delete.php" method="POST">
 
             <input type="hidden" name="board_id" value="<?php echo $board_id; ?>">
