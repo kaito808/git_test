@@ -1,6 +1,7 @@
 <html>
     <head>
-        <title>ワード検索</title>
+        <!-- 倉林編集しました -->
+        <title>ワード検索編集</title>
     </head>
     <body>
 
