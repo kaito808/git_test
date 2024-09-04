@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>確認画面</title>
+        <title>確認画面 修正済みです</title>
     </head>
     <body>
         <?php
