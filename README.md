@@ -35,12 +35,16 @@ GitHubに安全に接続するために、SSHの設定を行います。
    git clone git@github.com:ユーザー名/リポジトリ名.git
    ```
 4. VSCodeでクローンしたフォルダを開き、必要な修正を行います。
-   大まかな流れ
+   
+5. 大まかな流れ
    1. git pull
    2. git branch
    3. git checkout -b "新しいブランチ名"
    4. git branch で確認
-   5. 編集
+   5. 編集や修正
+
+   (編集後)
+
    6. git add
    7. git commit -m "メッセージ"
    8. git push
